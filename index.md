@@ -1,5 +1,5 @@
 ## 欢迎光临
 
-迁移自
+本博客迁移自
 
-[Link](http://www.blogjava.net/amplifier) 
+[http://www.blogjava.net/amplifier](http://www.blogjava.net/amplifier) 
